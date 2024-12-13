@@ -117,3 +117,4 @@ cal_btn = Button(frame, text='Рассчитать ИМТ', command=calculate_bm
 cal_btn.grid(row=5, column=2)
 
 window.mainloop()
+
